@@ -25,6 +25,9 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/CodeAdventurerr/Student_Score_Manager.git
-cd Student_Score_Manager
-
-python week1_project.py
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Student_Score_Manager
+3. **Run the Application**:
+   ```bash
+   python week1_project.py
